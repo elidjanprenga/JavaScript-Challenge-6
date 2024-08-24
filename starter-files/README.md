@@ -1,0 +1,1 @@
+Elidjan Prenga - Challange: Javascript-6.
